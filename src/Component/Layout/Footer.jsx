@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
+  const pass=Math.floor(Math.random()*1000);
   return (
     <div>
 <div class="card">
